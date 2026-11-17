@@ -1,0 +1,7 @@
+initiative,business_unit,metric,actual,target,unit,direction
+Platform Modernization,Technology,API migration completion,42,60,%,higher
+Customer Onboarding Simplification,Customer Operations,Onboarding completion rate,81,75,%,higher
+Supply Planning Accuracy,Supply Chain,Forecast accuracy,72,85,%,higher
+Finance Close Automation,Finance,Automated reconciliation coverage,68,65,%,higher
+Compliance Evidence Hub,Risk and Compliance,Evidence ingestion coverage,28,70,%,higher
+Sales Forecast Governance,Commercial,Forecast submission compliance,88,95,%,higher
